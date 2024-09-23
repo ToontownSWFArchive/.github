@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": ".github/config/custom.css",
-  "footer": "Copyright Text",
+  "footer": "ToontownSWFArchive",
   "usage-stats": false
 }
